@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "IOT 1030 LAB 8/1.0.0": {
+        "runtime": {
+          "IOT 1030 LAB 8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IOT 1030 LAB 8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

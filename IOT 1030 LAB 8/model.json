@@ -1,0 +1,397 @@
+{
+  "settings": {
+    "high_temp": 310,
+    "low_temp": 290,
+    "sim_time": 30e-9
+  },
+  "materials": [
+    {
+      "name": "Silicon",
+      "d_data": {
+        "la_data": [
+          -2.22e-07,
+          9260.0,
+          0.0
+        ],
+        "max_freq_la": 76391604800000.0,
+        "ta_data": [
+          -2.28e-07,
+          5240.0,
+          0.0
+        ],
+        "max_freq_ta": 30100793072000.0
+      },
+      "r_data": {
+        "b_l": 1.3e-24,
+        "b_tn": 9e-13,
+        "b_tu": 1.9e-18,
+        "b_i": 1.2e-45,
+        "w": 24200000000000.0
+      }
+    }
+  ],
+  "sensors": [
+    {
+      "id": 0,
+      "t_init": 300
+    },
+    {
+      "id": 1,
+      "t_init": 300
+    },
+    {
+      "id": 2,
+      "t_init": 300
+    },
+    {
+      "id": 3,
+      "t_init": 300
+    },
+    {
+      "id": 4,
+      "t_init": 300
+    },
+    {
+      "id": 5,
+      "t_init": 300
+    },
+    {
+      "id": 6,
+      "t_init": 300
+    },
+    {
+      "id": 7,
+      "t_init": 300
+    },
+    {
+      "id": 8,
+      "t_init": 300
+    },
+    {
+      "id": 9,
+      "t_init": 300
+    },
+    {
+      "id": 10,
+      "t_init": 300
+    },
+    {
+      "id": 11,
+      "t_init": 300
+    },
+    {
+      "id": 12,
+      "t_init": 300
+    },
+    {
+      "id": 13,
+      "t_init": 300
+    },
+    {
+      "id": 14,
+      "t_init": 300
+    },
+    {
+      "id": 15,
+      "t_init": 300
+    },
+    {
+      "id": 16,
+      "t_init": 300
+    },
+    {
+      "id": 17,
+      "t_init": 300
+    },
+    {
+      "id": 18,
+      "t_init": 300
+    },
+    {
+      "id": 19,
+      "t_init": 300
+    },
+    {
+      "id": 20,
+      "t_init": 300
+    },
+    {
+      "id": 21,
+      "t_init": 300
+    },
+    {
+      "id": 22,
+      "t_init": 300
+    },
+    {
+      "id": 23,
+      "t_init": 300
+    },
+    {
+      "id": 24,
+      "t_init": 300
+    },
+    {
+      "id": 25,
+      "t_init": 300
+    },
+    {
+      "id": 26,
+      "t_init": 300
+    },
+    {
+      "id": 27,
+      "t_init": 300
+    },
+    {
+      "id": 28,
+      "t_init": 300
+    },
+    {
+      "id": 29,
+      "t_init": 300
+    },
+    {
+      "id": 30,
+      "t_init": 300
+    },
+    {
+      "id": 31,
+      "t_init": 300
+    },
+    {
+      "id": 32,
+      "t_init": 300
+    },
+    {
+      "id": 33,
+      "t_init": 300
+    },
+    {
+      "id": 34,
+      "t_init": 300
+    },
+    {
+      "id": 35,
+      "t_init": 300
+    },
+    {
+      "id": 36,
+      "t_init": 300
+    },
+    {
+      "id": 37,
+      "t_init": 300
+    },
+    {
+      "id": 38,
+      "t_init": 300
+    },
+    {
+      "id": 39,
+      "t_init": 300
+    }
+  ],
+  "cells": [
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 0
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 1
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 2
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 3
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 4
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 5
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 6
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 7
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 8
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 9
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 10
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 11
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 12
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 13
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 14
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 15
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 16
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 17
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 18
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 19
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 20
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 21
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 22
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 23
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 24
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 25
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 26
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 27
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 28
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 29
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 30
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 31
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 32
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 33
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 34
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 35
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 36
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 37
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 38
+    },
+    {
+      "length": 50e-9,
+      "width": 10e-9,
+      "sensorID": 39
+    }
+  ]
+}
